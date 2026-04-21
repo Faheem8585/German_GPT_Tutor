@@ -1,5 +1,25 @@
 # GermanGPT Tutor
 
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0.2-FF6B35?style=flat-square&logo=chainlink&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-7-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-1.9-FF3366?style=flat-square&logo=qdrant&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-3.4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Gemma](https://img.shields.io/badge/Gemma-3%2012B-4285F4?style=flat-square&logo=google&logoColor=white)
+
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![CEFR](https://img.shields.io/badge/CEFR-A1--C2-8B5CF6?style=flat-square)
+![Games](https://img.shields.io/badge/Games-6%20Types-F59E0B?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Production-22C55E?style=flat-square)
+
+---
+
 A German language learning app I built to practice advanced LLM engineering. It has an AI tutor that adapts to your level, grammar correction on every message, voice input/output, six types of games, a structured lesson curriculum, and a progress dashboard — all running locally with Docker Compose.
 
 ---
