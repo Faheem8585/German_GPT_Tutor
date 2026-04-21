@@ -1,0 +1,49 @@
+# Secrets
+.env
+*.pem
+*.key
+
+# Claude Code local settings (may contain API keys in allowed commands)
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+dist/
+build/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+.vercel/
+*.tsbuildinfo
+next-env.d.ts
+
+# Docker volumes (local data)
+postgres_data/
+redis_data/
+qdrant_data/
+grafana_data/
+prometheus_data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Logs
+*.log
+logs/
